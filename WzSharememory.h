@@ -1,3 +1,10 @@
+/**
+ * @author ouyangwei (ouyang_wei_112@126.com)
+ * @brief WzSharememory is a cross-platform sharememory library
+ * @version 1.1
+ * @date 2019-11-10
+ * @copyright Copyright (c) 2019
+ */
 
 #ifndef __WZSHAREMEMORY_H__
 #define __WZSHAREMEMORY_H__
